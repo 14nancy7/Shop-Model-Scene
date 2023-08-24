@@ -11,8 +11,8 @@ The goal of this task is to work on the lighting and reflections of the shop mod
 To get started with the project, follow these steps:
 
 1. Download the project by either cloning this repository or downloading the ZIP archive.
-1. Open the project in Unity by launching the Unity editor and selecting "Open Project." Browse to the downloaded project folder and select it.
-1. Once the project is open, locate the shop model scene you need to work on.
+2. Open the project in Unity by launching the Unity editor and selecting "Open Project." Browse to the downloaded project folder and select it.
+3. Once project is opened locate SampleScene under Assets\Scenes directories and click on it 
 
 ## Lighting Setup Instructions
 
