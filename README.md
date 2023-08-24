@@ -28,16 +28,6 @@ To set up the lighting and reflections for the scene, please follow these guidel
 
 The 3D models and their textures used in this scene were created by Nancy Khalifa. These assets contribute to the overall visual quality of the shop model scene. Please ensure that you credit Nancy Khalifa appropriately when using or distributing the scene.
 
-## Contributing
-
-We welcome contributions to this project! If you have suggestions, improvements, or bug fixes, please feel free to submit a pull request. Your contributions will help improve the lighting setup and make the scene look even better.
-
 ## License
 
 This project is licensed under the [GNU General Public License v3.0](LICENSE). Feel free to use, modify, and distribute this code in accordance with the terms and conditions specified in the license.
-
-## Acknowledgments
-
-We would like to thank all the contributors who have helped improve this project.
-
-Enjoy working on the lighting setup, and have fun creating a visually stunning shop model scene!
