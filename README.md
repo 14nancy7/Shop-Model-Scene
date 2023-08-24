@@ -1,4 +1,4 @@
-# Shop Model Scene Lighting Setup
+# Shop Model Scene
 
 Welcome to the Shop Model Scene Lighting Setup project! This repository contains a Unity scene that requires lighting and reflection adjustments to achieve a high-quality look while ensuring optimization.
 
